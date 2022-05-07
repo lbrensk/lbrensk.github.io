@@ -17,7 +17,7 @@ __This is also bold__
 
 *This is italic*
 
-_This is italics too*
+_This is italics too_
 
 ## Blockquotes
 
