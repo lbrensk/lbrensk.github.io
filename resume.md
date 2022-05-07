@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Laura Brenskelle Resume
+title:
 slug: /resume
 
 ---
