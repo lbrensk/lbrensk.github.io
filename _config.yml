@@ -27,18 +27,12 @@ footer:
       link: "#"
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: http://twitter.com/lbrensk
+      username: "@lbrensk"
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://www.linkedin.com/in/laura-brenskelle-phd-9b940863/
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/lbrensk
 
 # Build settings
 markdown: kramdown
