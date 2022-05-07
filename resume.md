@@ -4,7 +4,6 @@ title:
 slug: /resume
 
 ---
-# Laura Brenskelle
 Researcher, Scientific Data Manager, Metadata Specialist with NOAA NCEI.
 
 <div id="webaddress">
