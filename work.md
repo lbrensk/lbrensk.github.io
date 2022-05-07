@@ -9,8 +9,6 @@ items:
       alt: water
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     
-    ### HEY 
-    
   - title: My Interest 2
     image:
       src: /assets/img/work/sand.png
@@ -19,5 +17,6 @@ items:
 ---
 
 This is an example of a "Work" page, displaying your work, your interests, your projects.
+## Hey
 <br />
 <br />
