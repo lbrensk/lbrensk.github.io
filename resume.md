@@ -1,6 +1,8 @@
 ---
-layout: cv
-title: Laura Brenskelle's CV
+layout: work
+title: Laura Brenskelle Resume
+slug: /resume
+
 ---
 # Laura Brenskelle
 Researcher, Scientific Data Manager, Metadata Specialist with NOAA NCEI.
